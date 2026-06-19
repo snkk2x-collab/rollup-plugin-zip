@@ -5,7 +5,7 @@
   "homepage": "https://github.com/mentaljam/rollup-plugin-zip",
   "repository": {
     "type": "git",
-    "url": "git+ssh://github.com/mentaljam/rollup-plugin-zip"
+    "url": "git+https://github.com/mentaljam/rollup-plugin-zip.git"
   },
   "bugs": {
     "url": "https://github.com/mentaljam/rollup-plugin-zip/issues"
